@@ -1,2 +1,2 @@
 # toasts-kotlin
-Basic toasts example
+Toasts basics in Kotlin
